@@ -1,4 +1,4 @@
--This project is inproperly named, it most defintely isnt my first Django project, but rather just a fun project where I'm messing around with a bunch of different things and learning to use new features.
+-This project is improperly named, it most defintely isnt my first Django project, but rather just a fun project where I'm messing around with a bunch of different things and learning to use new features.
 
 New Things:
     -Admin
